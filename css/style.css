@@ -1,0 +1,69 @@
+@import "null.css";
+
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+
+body {
+	font-family: "Lato";
+	color: #1e212c;
+}
+h1 {
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	margin: 190px 765px 92px 345px;
+	width: 810px;
+	height: 120px;
+}
+img {
+	width: 810px;
+	height: 360px;
+	margin: 0px 765px 60px 345px;
+}
+.bold {
+	font-weight: 900;
+	font-size: 20px;
+	line-height: 150%;
+	height: 90px;
+	margin: 0 765px 24px 345px;
+	width: 810px;
+}
+.lorem {
+	font-weight: 900;
+	font-size: 20px;
+	line-height: 150%;
+	height: 90px;
+	margin: 0 765px 24px 345px;
+	width: 752px;
+	height: 120px;
+	padding: 0 0px 0 58px;
+}
+.normal {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	width: 810px;
+	height: 182px;
+	margin: 0 745px 48px 345px;
+}
+.marius {
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+	width: 810px;
+	height: 52px;
+	margin: 0 765px 24px 345px;
+}
+.list {
+	font-size: 16px;
+	line-height: 160%;
+	width: 600px;
+	height: 116px;
+	margin: 0 975px 24px 345px;
+}
+.enim {
+	font-size: 16px;
+	line-height: 160%;
+	width: 810px;
+	height: 104px;
+	margin: 0 765px 60px 345px;
+}
